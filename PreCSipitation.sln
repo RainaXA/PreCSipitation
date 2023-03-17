@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreCSipitation", "PreCSipitation.csproj", "{2CA591E0-C11D-4C7D-9E71-9F2984C0C703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA591E0-C11D-4C7D-9E71-9F2984C0C703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA591E0-C11D-4C7D-9E71-9F2984C0C703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA591E0-C11D-4C7D-9E71-9F2984C0C703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA591E0-C11D-4C7D-9E71-9F2984C0C703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B659B4F0-1675-4E0F-9112-7C2F62FB184F}
+	EndGlobalSection
+EndGlobal
